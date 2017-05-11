@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: 
+
+}
+
+
+#myCanvasDiv {
+	width: 100%;
+
+}
+
+#myCanvas {
+	display: block;
+	margin: auto;
+	background-color; orange;
+	border: 2px solid black;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+
+#menuBar {
+	text-align: center;
+}
